@@ -1,0 +1,3 @@
+[submodule "TestContrib"]
+	path = TestContrib
+	url = https://github.com/SujithB/TestContrib.git
